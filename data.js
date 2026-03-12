@@ -219,12 +219,12 @@ const data =
       },
 
       {
-        "name": "David Perron",
-        "country": "Canada",
-        "city": "Sherbrooke, Quebec",
-        "team": "Ottawa Senators",
-        "date": "2007, St Louis Blues",
-        "video": "CAsG9Sy3HNk?start=4"
+        "name": "Alexandre Texier",
+        "country": "France",
+        "city": "Saint-Martin-d'Heres, Rhone-Alpes",
+        "team": "Montreal Canadiens",
+        "date": "2017, Columbus Blue Jackets",
+        "video": "bsyiHj8PwMw?start=20"
       },
 
       {
@@ -246,6 +246,15 @@ const data =
       },
 
       {
+        "name": "David Perron",
+        "country": "Canada",
+        "city": "Sherbrooke, Quebec",
+        "team": "Ottawa Senators",
+        "date": "2007, St Louis Blues",
+        "video": "CAsG9Sy3HNk?start=4"
+      },
+
+      {
         "name": "Jussi Jokinen",
         "country": "Finland",
         "city": "Kalajoki, Northern Ostrobothnia",
@@ -254,14 +263,6 @@ const data =
         "video": "OZp8gEkPL-M"
       },
 
-      {
-        "name": "Alexandre Texier",
-        "country": "France",
-        "city": "Saint-Martin-d'Heres, Rhone-Alpes",
-        "team": "Montreal Canadiens",
-        "date": "2017, Columbus Blue Jackets",
-        "video": "bsyiHj8PwMw?start=20"
-      },
 
       {
         "name": "Dustin Byfuglien ❤️",
